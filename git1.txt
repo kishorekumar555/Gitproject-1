@@ -1,2 +1,4 @@
-this is kishore kumar learning git and github
+this is kishore kumar learning git and github.
 Hello,this is my 2nd day of learning git and github.Happy Learning.
+Learn fast as soon as possible.
+
